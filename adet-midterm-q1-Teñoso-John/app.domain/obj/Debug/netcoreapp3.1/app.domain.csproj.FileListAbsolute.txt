@@ -1,0 +1,17 @@
+E:\Users\ninal\source\repos\Solution1\app.domain\bin\Debug\netcoreapp3.1\app.domain.deps.json
+E:\Users\ninal\source\repos\Solution1\app.domain\bin\Debug\netcoreapp3.1\app.domain.dll
+E:\Users\ninal\source\repos\Solution1\app.domain\bin\Debug\netcoreapp3.1\app.domain.pdb
+E:\Users\ninal\source\repos\Solution1\app.domain\obj\Debug\netcoreapp3.1\app.domain.AssemblyInfoInputs.cache
+E:\Users\ninal\source\repos\Solution1\app.domain\obj\Debug\netcoreapp3.1\app.domain.AssemblyInfo.cs
+E:\Users\ninal\source\repos\Solution1\app.domain\obj\Debug\netcoreapp3.1\app.domain.csproj.CoreCompileInputs.cache
+E:\Users\ninal\source\repos\Solution1\app.domain\obj\Debug\netcoreapp3.1\app.domain.dll
+E:\Users\ninal\source\repos\Solution1\app.domain\obj\Debug\netcoreapp3.1\app.domain.pdb
+C:\Users\User\Desktop\Solution1\app.domain\bin\Debug\netcoreapp3.1\app.domain.deps.json
+C:\Users\User\Desktop\Solution1\app.domain\bin\Debug\netcoreapp3.1\app.domain.dll
+C:\Users\User\Desktop\Solution1\app.domain\bin\Debug\netcoreapp3.1\app.domain.pdb
+C:\Users\User\Desktop\Solution1\app.domain\obj\Debug\netcoreapp3.1\app.domain.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Solution1\app.domain\obj\Debug\netcoreapp3.1\app.domain.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Solution1\app.domain\obj\Debug\netcoreapp3.1\app.domain.AssemblyInfo.cs
+C:\Users\User\Desktop\Solution1\app.domain\obj\Debug\netcoreapp3.1\app.domain.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Solution1\app.domain\obj\Debug\netcoreapp3.1\app.domain.dll
+C:\Users\User\Desktop\Solution1\app.domain\obj\Debug\netcoreapp3.1\app.domain.pdb
